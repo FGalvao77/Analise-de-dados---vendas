@@ -1,7 +1,7 @@
 ## Análise de dados - vendas
 ---
 
-O nosso desafio é analisar 6 planilhas de excel sobre vendas realizadas nos meses de _janeiro, fevereiro, março, abril, maio e junho. E, identificar qual vendedor realizou vendas maior que `55.000` e, para posteriormente enviar um **SMS** para o meu telefone.
+O nosso desafio é analisar 6 planilhas de excel sobre vendas realizadas nos meses de janeiro, fevereiro, março, abril, maio e junho. E, identificar qual vendedor realizou vendas maior que `55.000` e, para posteriormente enviar um **SMS** para o meu telefone.
 
 ❗**Obs:** para realizar o envio do **SMS** será necessário a instalação da biblioteca `twilio`.
 
